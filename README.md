@@ -28,9 +28,6 @@ I'm a Tech-focused professional with a strong interest in **Cybersecurity, Full-
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
 
-
-# Hi, I'm Cody 👋
-
 ---
 
 ## 🛠 Core Skills

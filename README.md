@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/4cody/">Cody Shaner</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about technology and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection and beyond, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity and tech. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm a Tech-focused professional with a strong interest in **Cybersecurity, Full-Stack Development, and IT** Currently building projects that combine **security + development + infrastructure**. From vulnerability management to threat detection and beyond, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity and tech. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -21,9 +21,7 @@ I'm passionate about technology and love tackling complex challenges through han
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
@@ -33,11 +31,6 @@ I'm passionate about technology and love tackling complex challenges through han
 
 
 # Hi, I'm Cody 👋
-
-## 🔐 About Me
-- Tech-focused professional with a strong interest in **Cybersecurity, Full-Stack Development, and IT**
-- Passionate about **threat detection, backend systems, and real-world problem solving**
-- Currently building projects that combine **security + development + infrastructure**
 
 ---
 
@@ -50,8 +43,8 @@ I'm passionate about technology and love tackling complex challenges through han
 - Log Analysis & Incident Detection
 
 ### 🌐 Full-Stack Development
-- Backend: Node.js, ASP.NET
-- Frontend: JavaScript, HTML, CSS
+- Backend: NodeJS ExpressJS
+- Frontend: ReactJS
 - REST API Design & Integration
 - Database fundamentals
 
@@ -79,8 +72,8 @@ I'm passionate about technology and love tackling complex challenges through han
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (optional)
+- LinkedIn: x
+- Email: x
 
 ---
 
